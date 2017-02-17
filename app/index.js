@@ -2,6 +2,10 @@
  * author:SunShinewyf
  * date:2017-02-17
  */
-var component = require('./component.js')
+import React from 'react'
+import Hello from './component.jsx'
+main();
 
-document.body.appendChild(component())
+function main() {
+    React.render(<Hello />, document.getElementById('app'))
+}
