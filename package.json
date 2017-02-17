@@ -4,7 +4,8 @@
   "description": "this is just a simple demo about webpack",
   "main": "index.js",
   "scripts": {
-    "build": "webpack"
+    "build": "webpack",
+    "dev":"webpack-dev-server --devtool eval --progress --colors --hot --content-base build"
   },
   "repository": {
     "type": "git",
@@ -19,7 +20,9 @@
     "url": "https://github.com/SunShinewyf/webpack-demo/issues"
   },
   "homepage": "https://github.com/SunShinewyf/webpack-demo#readme",
-  "devDependencies": {
-    "webpack": "^2.2.1"
+  "devDependencies": {},
+  "dependencies": {
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.3.0"
   }
 }
