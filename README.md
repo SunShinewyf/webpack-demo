@@ -46,8 +46,86 @@ module.exports = {
 
 ![template4](assets/4.png)
 
-改变example1.js之后，然后再执行`webpack`，目录结构如下所示：
+改变`example1.js`之后，然后再执行`webpack`，目录结构如下所示：
 
-![template5](assets/4.png)
+![template5](assets/5.png)
 
 这样就解决了上面的问题。但是当加入css文件之后，文件目录如下：
+
+![template5](assets/6.png)
+
+并且在`a.js`中引入`a.css`,如下所示：
+```js
+require('./a.css')
+```
+
+webpack的配置文件如下所示：
+```js
+module.exports = {
+    entry: {
+        'a': './a',
+        'b': './b'
+    },
+    output: {
+        filename: '[name]-[chunkhash:8].js'
+    },
+    module: {
+        loaders:[
+            {
+                test: /\.css$/, // Only .css files
+                use: ["style-loader", "css-loader"] // Run both loaders
+            }
+        ]
+    }
+};
+```
+执行`webpack`之后，目录结构变成如下：
+
+![template5](assets/7.png)
+
+改变a.css之后再执行`webpack`
+
+发现文件目录变成如下：
+
+![template5](assets/8.png)
+
+从目录可以看出，文件打包没有打包出css文件，而且只要修改a.css,那么a.js也会发生改变，所以chunkhash在含有css依赖的时候就会有问题
+
+### contenthash
+
+将webpack配置修改如下：
+```js
+const extractTextPlugin = require('extract-text-webpack-plugin');
+const webpack = require('webpack');
+
+module.exports = {
+    entry: {
+        'a': './a',
+        'b': './b'
+    },
+
+    output:{
+        filename:'[name]-[chunkhash].js'
+    },
+    module: {
+        loaders: [{
+            test: /\.css$/,
+            loader: extractTextPlugin.extract({ fallback: 'style-loader', use: 'css-loader' })
+        }],
+    },
+    plugins: [
+        // 这里的 contenthash 是 ExtractTextPlugin 根据抽取输出的文件内容计算得到
+        new extractTextPlugin('[name].[contenthash:4].css'),
+    ],
+}
+```
+执行webpack后的文件目录：
+
+![template5](assets/9.png)
+
+然后改变a.css 文件之后，再执行webpack，可以看到文件目录如下：
+
+![template5](assets/10.png)
+
+看到目录下只是生成了改变的新的css文件，达到目的
+

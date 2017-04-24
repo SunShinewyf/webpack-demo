@@ -1,15 +1,14 @@
 const extractTextPlugin = require('extract-text-webpack-plugin');
 const webpack = require('webpack');
-const WebpackMd5Hash = require('webpack-md5-hash')
 
 module.exports = {
     entry: {
-        'pageA': './pageA',
-        'pageB': './pageB'
+        'a': './a',
+        'b': './b'
     },
 
     output:{
-        filename:'[id]-[name]-[chunkhash].js'
+        filename:'[name]-[chunkhash].js'
     },
     module: {
         loaders: [{
@@ -23,8 +22,7 @@ module.exports = {
         // new webpack.optimize.CommonsChunkPlugin({
         //     name: "commons",
         //     minChunks: 2,
-        //     chunks: ["pageA", "pageB"],
+        //     chunks: ["a", "b"],
         // }),
-        new WebpackMd5Hash()
     ],
 }
