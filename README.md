@@ -3,6 +3,7 @@ as to webpack,I always do not have an intensive study,this time, I want to have 
 
 ## `webpack`中的`hash`问题
 简单的项目目录如下图所示：
+
 ![template](assets/1.png)
 
 
@@ -19,6 +20,7 @@ as to webpack,I always do not have an intensive study,this time, I want to have 
   };
 ```
 第一次执行`webpack`命令的时候，会出现下面的目录：
+
 ![template2](assets/2.png)
 
 但是当改变example1.js和example2.js中的任何一个文件的时候，然后再执行`webpack`,就会看到下面的目录：
@@ -41,9 +43,11 @@ module.exports = {
 };
 ```
 执行`webpack`之后，文件目录如下所示：
+
 ![template4](assets/4.png)
 
 改变example1.js之后，然后再执行`webpack`，目录结构如下所示：
+
 ![template5](assets/4.png)
 
 这样就解决了上面的问题。但是当加入css文件之后，文件目录如下：
