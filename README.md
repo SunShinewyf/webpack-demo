@@ -210,7 +210,7 @@ module.exports = {
                 // 图片加载器，雷同file-loader，更适合图片，可以将较小的图片转成base64，减少http请求
                 // 如下配置，将小于8192byte的图片转成base64码
                 test: /\.(png|jpg|gif)$/,
-                loader: 'url-loader?limit=8192&name=../images/[name].[ext]?[hash]',
+                loader: 'url-loader?limit=1000&name=../images/[name].[ext]?[hash]',
             }
         ],
     },
@@ -222,10 +222,6 @@ module.exports = {
 ```
 执行webpack之后，目录结构如下图所示：
 
-![template5](assets/13.png)
+![template5](assets/15.png)
 
-当图片内容发生改变时，再执行webpack时，文件目录如下所示：
-
-![template5](assets/14.png)
-
-可以发现当图片发生改变的时候，所有和图片相关的地方都发生了改变，如果要实现当图片内容发生改变时，其他文件不重新生成新的文件，要怎么弄呢
+可以看出图片也有相对应的编译文件，当图片的大小小于1000时，就不会创建相应的`imags`目录，只有大于1000时才会生成。当该目录的`css`和`js`发生改变的时候，也不会重新出现新的`image`图片

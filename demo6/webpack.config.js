@@ -14,14 +14,12 @@ module.exports = {
     module: {
         loaders: [
             {
-            test: /\.css$/,
-            loader: extractTextPlugin.extract({ fallback: 'style-loader', use: 'css-loader' })
+                test: /\.css$/,
+                loader: extractTextPlugin.extract({ fallback: 'style-loader', use: 'css-loader' })
             },
             {
-                // 图片加载器，雷同file-loader，更适合图片，可以将较小的图片转成base64，减少http请求
-                // 如下配置，将小于8192byte的图片转成base64码
-                test: /\.(png|jpg|gif)$/,
-                loader: 'url-loader?limit=8192&name=../images/[name].[ext]?[hash]',
+                test:  /\.(png|jpg)$/,
+                loader:'url-loader?limit=1000&name=images/[name].[hash].[ext]'
             }
         ],
     },
