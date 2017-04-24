@@ -19,10 +19,10 @@ module.exports = {
     plugins: [
         // 这里的 contenthash 是 ExtractTextPlugin 根据抽取输出的文件内容计算得到
         new extractTextPlugin('[name].[contenthash:4].css'),
-        // new webpack.optimize.CommonsChunkPlugin({
-        //     name: "commons",
-        //     minChunks: 2,
-        //     chunks: ["a", "b"],
-        // }),
+        new webpack.optimize.CommonsChunkPlugin({
+            name: "commons",
+            minChunks: 2,
+            chunks: ["a", "b"],
+        }),
     ],
 }

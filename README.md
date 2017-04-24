@@ -127,5 +127,43 @@ module.exports = {
 
 ![template5](assets/10.png)
 
-看到目录下只是生成了改变的新的css文件，达到目的
+看到目录下只是生成了改变的新的css文件，达到目的.
+
+### 使用`webpackMd5Hash`插件
+webpack的配置如下：
+```js
+const webpack = require('webpack');
+const extractTextPlugin = require('extract-text-webpack-plugin');
+const WebpackMd5Hash = require('webpack-md5-hash')
+
+module.exports = {
+    entry: {
+        'a': './a',
+        'b': './b'
+    },
+
+    output:{
+        filename:'[name]-[chunkhash].js'
+    },
+    module: {
+        loaders: [{
+            test: /\.css$/,
+            loader: extractTextPlugin.extract({ fallback: 'style-loader', use: 'css-loader' })
+        }],
+    },
+    plugins: [
+        new extractTextPlugin('[name].[contenthash:4].css'),
+        new WebpackMd5Hash()
+    ],
+}
+```
+文件目录如下图所示：
+
+![template5](assets/11.png)
+
+修改a.css之后，文件目录变成如下所示：
+
+![template5](assets/12.png)
+
+可以看出，当a.css发生改变的时候，依赖它的其他文件并没有重新生成新的hash值，所以使用`webpackMd5Hash`也可以解决问题
 
