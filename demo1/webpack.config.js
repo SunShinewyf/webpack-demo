@@ -8,6 +8,6 @@ module.exports = {
         'example2': './example2'
     },
     output: {
-        filename: '[name]-[hash].js'
+        filename: '[name]-[chunkhash:8].js'
     }
 };
