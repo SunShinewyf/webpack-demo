@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7e42709-5915-48b5-816e-a7ec0c2ff989" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo7/1.png" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo6/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo6/a-318e75cee9d1bdb7d0bb.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo6/a-d414aea0355e33695a3f.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo6/a.a257.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo6/a.cbb8.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo6/b-cb17c3f4aec4bff1da5b.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/1.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/a.css" afterPath="$PROJECT_DIR$/demo6/a.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/a.js" afterPath="$PROJECT_DIR$/demo6/a.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/webpack.config.js" afterPath="$PROJECT_DIR$/demo6/webpack.config.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -29,71 +17,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo7/webpack.config.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="a.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo7/a.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="27" lean-forward="false" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="a.a9f1.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo7/a.a9f1.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="39" lean-forward="false" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="a.502d.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo7/a.502d.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="841">
-              <caret line="226" column="102" lean-forward="false" selection-start-line="226" selection-start-column="102" selection-end-line="226" selection-end-column="102" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="a.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo7/a.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="b.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo7/b.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+            <state relative-caret-position="516">
+              <caret line="128" column="20" lean-forward="false" selection-start-line="128" selection-start-column="20" selection-end-line="128" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -113,7 +41,7 @@
         <entry file="file://$PROJECT_DIR$/demo6/a.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="63">
-              <caret line="3" column="20" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="20" />
+              <caret line="3" column="20" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -123,7 +51,7 @@
         <entry file="file://$PROJECT_DIR$/demo6/a.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="84">
-              <caret line="4" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="1" />
+              <caret line="6" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -188,7 +116,6 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/demo4/node_modules" />
     <handled-path value="$PROJECT_DIR$/demo5/node_modules" />
-    <handled-path value="$PROJECT_DIR$/demo7/node_modules" />
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
@@ -223,38 +150,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="webpack-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webpack-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webpack-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="demo7" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webpack-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webpack-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="demo7" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -380,12 +275,12 @@
       <option name="presentableId" value="Default" />
       <updated>1492999970368</updated>
       <workItem from="1492999972290" duration="15613000" />
-      <workItem from="1493028026004" duration="7511000" />
+      <workItem from="1493028026004" duration="7646000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23124000" />
+    <option name="totallyTimeSpent" value="23259000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="-280" width="1920" height="1080" extended-state="6" />
@@ -667,7 +562,7 @@
     <entry file="file://$PROJECT_DIR$/demo6/a.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
-          <caret line="4" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="1" />
+          <caret line="6" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -675,7 +570,7 @@
     <entry file="file://$PROJECT_DIR$/demo6/a.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
-          <caret line="3" column="20" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="20" />
+          <caret line="3" column="20" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="16" />
           <folding />
         </state>
       </provider>
@@ -754,8 +649,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="841">
-          <caret line="226" column="102" lean-forward="false" selection-start-line="226" selection-start-column="102" selection-end-line="226" selection-end-column="102" />
+        <state relative-caret-position="516">
+          <caret line="128" column="20" lean-forward="false" selection-start-line="128" selection-start-column="20" selection-end-line="128" selection-end-column="20" />
           <folding />
         </state>
       </provider>

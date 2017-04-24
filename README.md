@@ -88,11 +88,11 @@ module.exports = {
 
 ![template5](assets/8.png)
 
-从目录可以看出，文件打包没有打包出css文件，而且只要修改a.css,那么a.js也会发生改变，所以chunkhash在含有css依赖的时候就会有问题
+从目录可以看出，文件打包没有打包出`css`文件，而且只要修改`a.css`,那么`a.js`也会发生改变，所以`chunkhash`在含有`css`依赖的时候就会有问题
 
-### contenthash
+### `contenthash`
 
-将webpack配置修改如下：
+将`webpack`配置修改如下：
 ```js
 const extractTextPlugin = require('extract-text-webpack-plugin');
 const webpack = require('webpack');
@@ -118,15 +118,15 @@ module.exports = {
     ],
 }
 ```
-执行webpack后的文件目录：
+执行`webpack`后的文件目录：
 
 ![template5](assets/9.png)
 
-然后改变a.css 文件之后，再执行webpack，可以看到文件目录如下：
+然后改变`a.css` 文件之后，再执行`webpack`，可以看到文件目录如下：
 
 ![template5](assets/10.png)
 
-看到目录下只是生成了改变的新的css文件，达到目的.
+看到目录下只是生成了改变的新的`css`文件，达到目的.
 
 ### 使用`webpackMd5Hash`插件
 webpack的配置如下：
