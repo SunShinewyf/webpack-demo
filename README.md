@@ -168,3 +168,64 @@ module.exports = {
 `webpackMd5Hash`通过模块路径来排序chunk的所有依赖模块，并将这些排序后的模块源代码拼接，最后用MD5拼接后内容的```chunkhash```,
 但是webpackMd5Hash有一些issue，有一些坑，具体可以参见[这里](https://github.com/erm0l0v/webpack-md5-hash/issues/5)还有[这里](https://github.com/erm0l0v/webpack-md5-hash/issues/7)
 
+### 图片的hash问题
+在文件中难免会用到图片，比如在文件目录中，a.css文件代码如下：
+```css
+a{
+    font-size:14px;
+    background:url('./1.png') no-repeat;
+}
+```
+
+a.js中的文件代码如下：
+```js
+require('./1.png');
+require('./a.css')
+require('./b.js')
+var a = 'this is a';
+```
+
+`webpack`配置如下：
+```js
+const webpack = require('webpack');
+const extractTextPlugin = require('extract-text-webpack-plugin');
+const WebpackMd5Hash = require('webpack-md5-hash')
+
+module.exports = {
+    entry: {
+        'a': './a',
+        'b': './b'
+    },
+
+    output:{
+        filename:'[name]-[chunkhash].js'
+    },
+    module: {
+        loaders: [
+            {
+            test: /\.css$/,
+            loader: extractTextPlugin.extract({ fallback: 'style-loader', use: 'css-loader' })
+            },
+            {
+                // 图片加载器，雷同file-loader，更适合图片，可以将较小的图片转成base64，减少http请求
+                // 如下配置，将小于8192byte的图片转成base64码
+                test: /\.(png|jpg|gif)$/,
+                loader: 'url-loader?limit=8192&name=../images/[name].[ext]?[hash]',
+            }
+        ],
+    },
+    plugins: [
+        new extractTextPlugin('[name].[contenthash:4].css'),
+        new WebpackMd5Hash()
+    ],
+}
+```
+执行webpack之后，目录结构如下图所示：
+
+![template5](assets/13.png)
+
+当图片内容发生改变时，再执行webpack时，文件目录如下所示：
+
+![template5](assets/14.png)
+
+可以发现当图片发生改变的时候，所有和图片相关的地方都发生了改变，如果要实现当图片内容发生改变时，其他文件不重新生成新的文件，要怎么弄呢

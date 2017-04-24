@@ -2,8 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7e42709-5915-48b5-816e-a7ec0c2ff989" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo6/a-8261999666e0d8286044.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo6/a-d5b60706fc76074ad2fb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo6/a.5bf3.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo6/b-7f7b6e920c4ec4f600dd.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/a.css" afterPath="$PROJECT_DIR$/demo6/a.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/a.js" afterPath="$PROJECT_DIR$/demo6/a.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/pinkie-promise/index.js" afterPath="$PROJECT_DIR$/demo6/node_modules/pinkie-promise/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/pinkie-promise/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/pinkie-promise/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/pinkie-promise/readme.md" afterPath="$PROJECT_DIR$/demo6/node_modules/pinkie-promise/readme.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/pinkie/index.js" afterPath="$PROJECT_DIR$/demo6/node_modules/pinkie/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/pinkie/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/pinkie/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/pinkie/readme.md" afterPath="$PROJECT_DIR$/demo6/node_modules/pinkie/readme.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/webpack/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/webpack/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/package.json" afterPath="$PROJECT_DIR$/demo6/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/webpack.config.js" afterPath="$PROJECT_DIR$/demo6/webpack.config.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,8 +36,28 @@
       <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo6/webpack.config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="23" column="1" lean-forward="false" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+            <state relative-caret-position="441">
+              <caret line="21" column="9" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo6/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="20" column="31" lean-forward="false" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="a.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo6/a.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="3" column="20" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -31,8 +66,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="855">
-              <caret line="168" column="154" lean-forward="false" selection-start-line="168" selection-start-column="154" selection-end-line="168" selection-end-column="154" />
+            <state relative-caret-position="925">
+              <caret line="230" column="20" lean-forward="false" selection-start-line="230" selection-start-column="20" selection-end-line="230" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -51,8 +86,8 @@
       <file leaf-file-name="a.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo6/a.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+            <state relative-caret-position="42">
+              <caret line="2" column="39" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -111,10 +146,10 @@
         <option value="$PROJECT_DIR$/demo5/b.js" />
         <option value="$PROJECT_DIR$/demo5/webpack.config.js" />
         <option value="$PROJECT_DIR$/demo5/a.css" />
-        <option value="$PROJECT_DIR$/demo6/webpack.config.js" />
+        <option value="$PROJECT_DIR$/demo6/b.js" />
         <option value="$PROJECT_DIR$/demo6/a.css" />
         <option value="$PROJECT_DIR$/demo6/a.js" />
-        <option value="$PROJECT_DIR$/demo6/b.js" />
+        <option value="$PROJECT_DIR$/demo6/webpack.config.js" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -369,12 +404,12 @@
       <option name="presentableId" value="Default" />
       <updated>1492999970368</updated>
       <workItem from="1492999972290" duration="15613000" />
-      <workItem from="1493028026004" duration="165000" />
+      <workItem from="1493028026004" duration="1673000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15778000" />
+    <option name="totallyTimeSpent" value="17286000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="-280" width="1920" height="1080" extended-state="6" />
@@ -410,15 +445,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demo4/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webpack-in-action/examples/advanced/package.json" />
-    <entry file="file://$PROJECT_DIR$/demo1/example2-075545348deee7315643.js" />
     <entry file="file://$PROJECT_DIR$/demo1/example2-597ae2f641541a62990e.js" />
     <entry file="file://$PROJECT_DIR$/demo1/example1-597ae2f641541a62990e.js" />
     <entry file="file://$PROJECT_DIR$/demo1/example1-075545348deee7315643.js" />
@@ -528,14 +554,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo6/a.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo5/a.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
@@ -564,9 +582,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-693">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -584,9 +600,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -594,32 +608,62 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1008">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo6/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="31" lean-forward="false" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo6/a.7e11.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo6/a.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="39" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo6/a-9c74990a2253ac34b9fa.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demo6/a.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="15" lean-forward="false" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+        <state relative-caret-position="63">
+          <caret line="3" column="20" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demo6/webpack.config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="23" column="1" lean-forward="false" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        <state relative-caret-position="441">
+          <caret line="21" column="9" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="168" column="154" lean-forward="false" selection-start-line="168" selection-start-column="154" selection-end-line="168" selection-end-column="154" />
+        <state relative-caret-position="925">
+          <caret line="230" column="20" lean-forward="false" selection-start-line="230" selection-start-column="20" selection-end-line="230" selection-end-column="20" />
           <folding />
         </state>
       </provider>
