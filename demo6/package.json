@@ -1,0 +1,16 @@
+{
+  "name": "demo6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "extract-text-webpack-plugin": "^2.1.0",
+    "webpack": "^2.4.1",
+    "webpack-md5-hash": "0.0.5"
+  }
+}

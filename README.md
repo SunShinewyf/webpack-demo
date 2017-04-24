@@ -1,5 +1,4 @@
 # webpack-demo
-as to webpack,I always do not have an intensive study,this time, I want to have some insight into webpack,good luck to myself
 
 ## `webpack`中的`hash`问题
 简单的项目目录如下图所示：
@@ -166,4 +165,6 @@ module.exports = {
 ![template5](assets/12.png)
 
 可以看出，当a.css发生改变的时候，依赖它的其他文件并没有重新生成新的hash值，所以使用`webpackMd5Hash`也可以解决问题
+`webpackMd5Hash`通过模块路径来排序chunk的所有依赖模块，并将这些排序后的模块源代码拼接，最后用MD5拼接后内容的```chunkhash```,
+但是webpackMd5Hash有一些issue，有一些坑，具体可以参见[这里](https://github.com/erm0l0v/webpack-md5-hash/issues/5)还有[这里](https://github.com/erm0l0v/webpack-md5-hash/issues/7)
 
