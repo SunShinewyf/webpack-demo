@@ -2,398 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7e42709-5915-48b5-816e-a7ec0c2ff989" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo6/1.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/acorn-dynamic-import/node_modules/acorn/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/acorn-dynamic-import/node_modules/acorn/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/acorn-dynamic-import/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/acorn-dynamic-import/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/acorn/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/acorn/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/ajv-keywords/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/ajv-keywords/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/ajv/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/ajv/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/align-text/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/align-text/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/alphanum-sort/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/alphanum-sort/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/ansi-regex/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/ansi-regex/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/ansi-styles/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/ansi-styles/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/any-promise/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/any-promise/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/anymatch/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/anymatch/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/argparse/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/argparse/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/arr-diff/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/arr-diff/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/arr-flatten/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/arr-flatten/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/array-union/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/array-union/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/array-uniq/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/array-uniq/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/array-unique/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/array-unique/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/arrify/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/arrify/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/asn1.js/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/asn1.js/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/assert/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/assert/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/async-each/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/async-each/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/async/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/async/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/autoprefixer/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/autoprefixer/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/babel-code-frame/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/babel-code-frame/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/balanced-match/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/balanced-match/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/base64-js/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/base64-js/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/big.js/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/big.js/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/binary-extensions/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/binary-extensions/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/bn.js/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/bn.js/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/brace-expansion/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/brace-expansion/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/braces/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/braces/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/brorand/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/brorand/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/browserify-aes/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/browserify-aes/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/browserify-cipher/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/browserify-cipher/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/browserify-des/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/browserify-des/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/browserify-rsa/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/browserify-rsa/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/browserify-sign/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/browserify-sign/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/browserify-zlib/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/browserify-zlib/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/browserslist/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/browserslist/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/buffer-shims/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/buffer-shims/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/buffer-xor/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/buffer-xor/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/buffer/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/buffer/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/builtin-modules/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/builtin-modules/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/builtin-status-codes/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/builtin-status-codes/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/camelcase/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/camelcase/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/caniuse-api/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/caniuse-api/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/caniuse-db/data.json" afterPath="$PROJECT_DIR$/demo6/node_modules/caniuse-db/data.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/caniuse-db/features-json/rel-noreferrer.json" afterPath="$PROJECT_DIR$/demo6/node_modules/caniuse-db/features-json/rel-noreferrer.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/caniuse-db/fulldata-json/data-1.0.json" afterPath="$PROJECT_DIR$/demo6/node_modules/caniuse-db/fulldata-json/data-1.0.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/caniuse-db/fulldata-json/data-2.0.json" afterPath="$PROJECT_DIR$/demo6/node_modules/caniuse-db/fulldata-json/data-2.0.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/caniuse-db/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/caniuse-db/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/center-align/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/center-align/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/chalk/node_modules/supports-color/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/chalk/node_modules/supports-color/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/chalk/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/chalk/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/charenc/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/charenc/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/chokidar/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/chokidar/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/cipher-base/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/cipher-base/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/clap/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/clap/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/cliui/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/cliui/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/clone/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/clone/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/co/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/co/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/coa/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/coa/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/code-point-at/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/code-point-at/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/color-convert/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/color-convert/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/color-name/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/color-name/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/color-string/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/color-string/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/color/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/color/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/colormin/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/colormin/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/colors/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/colors/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/concat-map/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/concat-map/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/console-browserify/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/console-browserify/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/constants-browserify/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/constants-browserify/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/core-util-is/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/core-util-is/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/cosmiconfig/node_modules/minimist/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/cosmiconfig/node_modules/minimist/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/cosmiconfig/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/cosmiconfig/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/create-ecdh/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/create-ecdh/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/create-hash/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/create-hash/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/create-hmac/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/create-hmac/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/crypt/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/crypt/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/crypto-browserify/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/crypto-browserify/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/css-color-function/node_modules/balanced-match/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/css-color-function/node_modules/balanced-match/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/css-color-function/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/css-color-function/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/css-color-names/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/css-color-names/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/css-loader/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/css-loader/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/css-selector-tokenizer/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/css-selector-tokenizer/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/cssesc/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/cssesc/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/cssnano/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/cssnano/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/csso/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/csso/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/date-now/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/date-now/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/debug/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/debug/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/decamelize/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/decamelize/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/defined/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/defined/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/des.js/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/des.js/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/diffie-hellman/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/diffie-hellman/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/domain-browser/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/domain-browser/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/electron-to-chromium/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/electron-to-chromium/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/elliptic/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/elliptic/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/emojis-list/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/emojis-list/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/enhanced-resolve/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/enhanced-resolve/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/errno/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/errno/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/error-ex/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/error-ex/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/escape-string-regexp/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/escape-string-regexp/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/esprima/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/esprima/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/esutils/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/esutils/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/events/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/events/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/evp_bytestokey/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/evp_bytestokey/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/expand-brackets/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/expand-brackets/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/expand-range/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/expand-range/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/extglob/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/extglob/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/extract-text-webpack-plugin/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/extract-text-webpack-plugin/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/fastparse/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/fastparse/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/file-loader/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/file-loader/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/filename-regex/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/filename-regex/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/fill-range/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/fill-range/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/find-up/node_modules/pinkie-promise/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/find-up/node_modules/pinkie-promise/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/find-up/node_modules/pinkie/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/find-up/node_modules/pinkie/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/find-up/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/find-up/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/flatten/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/flatten/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/for-in/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/for-in/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/for-own/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/for-own/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/fs-extra/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/fs-extra/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/fs-promise/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/fs-promise/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/fs.realpath/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/fs.realpath/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/fsevents/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/fsevents/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/function-bind/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/function-bind/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/get-caller-file/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/get-caller-file/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/glob-base/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/glob-base/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/glob-parent/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/glob-parent/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/glob/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/glob/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/globby/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/globby/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/graceful-fs/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/graceful-fs/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/has-ansi/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/has-ansi/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/has-flag/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/has-flag/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/has/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/has/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/hash.js/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/hash.js/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/hmac-drbg/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/hmac-drbg/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/hosted-git-info/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/hosted-git-info/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/html-comment-regex/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/html-comment-regex/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/https-browserify/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/https-browserify/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/icss-replace-symbols/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/icss-replace-symbols/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/ieee754/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/ieee754/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/indexes-of/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/indexes-of/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/indexof/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/indexof/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/inflight/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/inflight/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/inherits/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/inherits/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/interpret/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/interpret/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/invert-kv/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/invert-kv/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/is-absolute-url/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/is-absolute-url/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/is-arrayish/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/is-arrayish/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/is-binary-path/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/is-binary-path/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/is-buffer/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/is-buffer/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/is-builtin-module/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/is-builtin-module/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/is-dotfile/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/is-dotfile/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/is-equal-shallow/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/is-equal-shallow/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/is-extendable/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/is-extendable/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/is-extglob/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/is-extglob/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/is-fullwidth-code-point/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/is-fullwidth-code-point/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/is-glob/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/is-glob/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/is-number/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/is-number/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/is-plain-obj/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/is-plain-obj/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/is-posix-bracket/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/is-posix-bracket/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/is-primitive/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/is-primitive/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/is-svg/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/is-svg/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/is-utf8/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/is-utf8/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/isarray/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/isarray/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/isobject/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/isobject/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/js-base64/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/js-base64/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/js-tokens/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/js-tokens/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/js-yaml/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/js-yaml/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/jsesc/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/jsesc/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/json-loader/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/json-loader/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/json-stable-stringify/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/json-stable-stringify/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/json5/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/json5/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/jsonfile/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/jsonfile/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/jsonify/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/jsonify/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/kind-of/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/kind-of/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/lazy-cache/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/lazy-cache/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/lcid/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/lcid/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/load-json-file/node_modules/pinkie-promise/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/load-json-file/node_modules/pinkie-promise/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/load-json-file/node_modules/pinkie/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/load-json-file/node_modules/pinkie/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/load-json-file/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/load-json-file/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/loader-runner/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/loader-runner/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/loader-utils/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/loader-utils/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/lodash.camelcase/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/lodash.camelcase/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/lodash.memoize/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/lodash.memoize/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/lodash.uniq/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/lodash.uniq/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/lodash/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/lodash/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/longest/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/longest/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/macaddress/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/macaddress/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/math-expression-evaluator/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/math-expression-evaluator/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/md5/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/md5/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/memory-fs/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/memory-fs/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/micromatch/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/micromatch/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/miller-rabin/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/miller-rabin/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/mime/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/mime/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/minimalistic-assert/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/minimalistic-assert/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/minimalistic-crypto-utils/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/minimalistic-crypto-utils/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/minimatch/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/minimatch/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/minimist/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/minimist/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/mkdirp/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/mkdirp/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/nan/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/nan/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/node-libs-browser/node_modules/string_decoder/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/node-libs-browser/node_modules/string_decoder/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/node-libs-browser/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/node-libs-browser/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/normalize-package-data/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/normalize-package-data/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/normalize-path/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/normalize-path/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/normalize-range/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/normalize-range/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/normalize-url/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/normalize-url/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/num2fraction/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/num2fraction/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/number-is-nan/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/number-is-nan/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/object-assign/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/object-assign/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/object.omit/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/object.omit/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/once/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/once/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/os-browserify/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/os-browserify/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/os-homedir/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/os-homedir/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/os-locale/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/os-locale/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/pako/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/pako/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/parse-asn1/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/parse-asn1/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/parse-glob/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/parse-glob/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/parse-json/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/parse-json/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/path-browserify/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/path-browserify/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/path-exists/node_modules/pinkie-promise/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/path-exists/node_modules/pinkie-promise/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/path-exists/node_modules/pinkie/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/path-exists/node_modules/pinkie/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/path-exists/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/path-exists/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/path-is-absolute/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/path-is-absolute/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/path-type/node_modules/pinkie-promise/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/path-type/node_modules/pinkie-promise/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/path-type/node_modules/pinkie/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/path-type/node_modules/pinkie/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/path-type/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/path-type/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/pbkdf2/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/pbkdf2/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/pify/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/pify/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/pinkie-promise/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/pinkie-promise/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/pinkie/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/pinkie/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss-advanced-variables/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss-advanced-variables/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss-atroot/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss-atroot/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss-calc/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss-calc/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss-color-function/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss-color-function/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss-colormin/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss-colormin/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss-convert-values/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss-convert-values/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss-custom-media/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss-custom-media/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss-custom-properties/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss-custom-properties/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss-custom-selectors/node_modules/balanced-match/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss-custom-selectors/node_modules/balanced-match/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss-custom-selectors/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss-custom-selectors/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss-discard-comments/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss-discard-comments/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss-discard-duplicates/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss-discard-duplicates/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss-discard-empty/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss-discard-empty/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss-discard-overridden/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss-discard-overridden/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss-discard-unused/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss-discard-unused/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss-extend/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss-extend/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss-filter-plugins/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss-filter-plugins/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss-load-config/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss-load-config/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss-load-options/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss-load-options/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss-load-plugins/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss-load-plugins/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss-loader/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss-loader/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss-media-minmax/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss-media-minmax/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss-merge-idents/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss-merge-idents/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss-merge-longhand/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss-merge-longhand/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss-merge-rules/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss-merge-rules/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss-message-helpers/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss-message-helpers/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss-minify-font-values/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss-minify-font-values/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss-minify-gradients/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss-minify-gradients/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss-minify-params/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss-minify-params/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss-minify-selectors/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss-minify-selectors/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss-mixins/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss-mixins/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss-modules-extract-imports/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss-modules-extract-imports/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss-modules-local-by-default/node_modules/css-selector-tokenizer/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss-modules-local-by-default/node_modules/css-selector-tokenizer/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss-modules-local-by-default/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss-modules-local-by-default/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss-modules-scope/node_modules/css-selector-tokenizer/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss-modules-scope/node_modules/css-selector-tokenizer/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss-modules-scope/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss-modules-scope/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss-modules-values/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss-modules-values/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss-nested/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss-nested/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss-nesting/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss-nesting/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss-normalize-charset/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss-normalize-charset/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss-normalize-url/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss-normalize-url/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss-ordered-values/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss-ordered-values/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss-partial-import/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss-partial-import/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss-property-lookup/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss-property-lookup/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss-reduce-idents/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss-reduce-idents/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss-reduce-initial/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss-reduce-initial/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss-reduce-transforms/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss-reduce-transforms/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss-selector-matches/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss-selector-matches/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss-selector-not/node_modules/balanced-match/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss-selector-not/node_modules/balanced-match/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss-selector-not/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss-selector-not/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss-selector-parser/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss-selector-parser/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss-simple-vars/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss-simple-vars/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss-svgo/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss-svgo/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss-unique-selectors/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss-unique-selectors/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss-value-parser/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss-value-parser/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss-zindex/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss-zindex/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/postcss/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/postcss/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/precss/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/precss/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/prepend-http/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/prepend-http/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/preserve/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/preserve/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/process-nextick-args/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/process-nextick-args/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/process/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/process/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/prr/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/prr/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/public-encrypt/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/public-encrypt/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/punycode/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/punycode/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/q/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/q/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/query-string/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/query-string/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/querystring-es3/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/querystring-es3/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/querystring/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/querystring/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/randomatic/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/randomatic/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/randombytes/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/randombytes/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/read-pkg-up/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/read-pkg-up/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/read-pkg/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/read-pkg/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/readable-stream/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/readable-stream/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/readdirp/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/readdirp/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/reduce-css-calc/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/reduce-css-calc/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/reduce-function-call/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/reduce-function-call/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/regenerate/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/regenerate/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/regex-cache/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/regex-cache/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/regexpu-core/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/regexpu-core/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/regjsgen/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/regjsgen/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/regjsparser/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/regjsparser/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/remove-trailing-separator/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/remove-trailing-separator/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/repeat-element/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/repeat-element/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/repeat-string/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/repeat-string/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/require-directory/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/require-directory/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/require-from-string/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/require-from-string/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/require-main-filename/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/require-main-filename/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/rgb/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/rgb/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/right-align/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/right-align/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/rimraf/node_modules/glob/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/rimraf/node_modules/glob/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/rimraf/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/rimraf/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/ripemd160/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/ripemd160/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/sax/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/sax/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/semver/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/semver/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/set-blocking/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/set-blocking/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/set-immediate-shim/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/set-immediate-shim/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/setimmediate/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/setimmediate/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/sha.js/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/sha.js/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/sort-keys/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/sort-keys/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/source-list-map/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/source-list-map/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/source-map/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/source-map/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/spdx-correct/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/spdx-correct/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/spdx-expression-parse/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/spdx-expression-parse/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/spdx-license-ids/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/spdx-license-ids/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/sprintf-js/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/sprintf-js/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/stream-browserify/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/stream-browserify/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/stream-http/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/stream-http/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/strict-uri-encode/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/strict-uri-encode/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/string-hash/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/string-hash/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/string-width/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/string-width/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/string_decoder/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/string_decoder/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/strip-ansi/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/strip-ansi/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/strip-bom/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/strip-bom/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/style-loader/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/style-loader/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/supports-color/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/supports-color/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/svgo/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/svgo/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/tapable/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/tapable/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/tcomb/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/tcomb/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/timers-browserify/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/timers-browserify/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/to-arraybuffer/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/to-arraybuffer/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/tty-browserify/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/tty-browserify/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/uglify-js/node_modules/yargs/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/uglify-js/node_modules/yargs/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/uglify-js/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/uglify-js/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/uglify-to-browserify/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/uglify-to-browserify/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/uniq/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/uniq/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/uniqid/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/uniqid/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/uniqs/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/uniqs/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/url-loader/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/url-loader/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/url/node_modules/punycode/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/url/node_modules/punycode/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/url/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/url/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/util-deprecate/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/util-deprecate/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/util/node_modules/inherits/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/util/node_modules/inherits/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/util/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/util/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/validate-npm-package-license/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/validate-npm-package-license/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/vendors/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/vendors/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/vm-browserify/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/vm-browserify/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/watchpack/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/watchpack/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/webpack-md5-hash/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/webpack-md5-hash/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/webpack-sources/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/webpack-sources/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/webpack/lib/webpack.js" afterPath="$PROJECT_DIR$/demo6/node_modules/webpack/lib/webpack.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/webpack/node_modules/loader-utils/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/webpack/node_modules/loader-utils/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/webpack/node_modules/source-list-map/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/webpack/node_modules/source-list-map/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/webpack/node_modules/webpack-sources/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/webpack/node_modules/webpack-sources/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/webpack/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/webpack/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/whet.extend/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/whet.extend/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/which-module/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/which-module/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/window-size/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/window-size/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/wordwrap/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/wordwrap/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/wrap-ansi/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/wrap-ansi/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/wrappy/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/wrappy/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/xtend/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/xtend/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/y18n/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/y18n/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/yargs-parser/node_modules/camelcase/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/yargs-parser/node_modules/camelcase/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/yargs-parser/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/yargs-parser/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/yargs/node_modules/camelcase/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/yargs/node_modules/camelcase/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/yargs/node_modules/cliui/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/yargs/node_modules/cliui/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/node_modules/yargs/package.json" afterPath="$PROJECT_DIR$/demo6/node_modules/yargs/package.json" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -569,23 +178,9 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="784">
-              <caret line="335" column="18" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="348" selection-end-column="0" />
+            <state relative-caret-position="21">
+              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="1.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo6/1.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="609">
-              <caret line="67" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="67" selection-end-column="1" />
-              <folding>
-                <element signature="e#443#699#0" expanded="false" />
-                <element signature="n#!!block;n#compilerCallback#0;n#!!block;n#processOptions#0" expanded="false" />
-                <element signature="e#1811#2232#0" expanded="false" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -916,12 +511,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31793000" />
+    <option name="totallyTimeSpent" value="31926000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="-280" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913843" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1168,11 +764,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="609">
           <caret line="67" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="67" selection-end-column="1" />
-          <folding>
-            <element signature="e#443#699#0" expanded="false" />
-            <element signature="n#!!block;n#compilerCallback#0;n#!!block;n#processOptions#0" expanded="false" />
-            <element signature="e#1811#2232#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1265,8 +857,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="784">
-          <caret line="335" column="18" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="348" selection-end-column="0" />
+        <state relative-caret-position="21">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
