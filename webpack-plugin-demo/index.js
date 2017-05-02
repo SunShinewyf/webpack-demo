@@ -2,14 +2,12 @@
  * author:SunShinewyf
  * date:2017-04-27
  **/
-function HelloWorldPlugin(options) {
+function ImageWebpackPlugin(options) {
 
 }
 
-HelloWorldPlugin.prototype.apply = function(compiler){
-    compiler.plugin('done',function(){
-        console.log('hello world');
-    });
+ImageWebpackPlugin.prototype.apply = function(compiler){
+
 };
 
-module.exports = HelloWorldPlugin;
+module.exports = ImageWebpackPlugin;
