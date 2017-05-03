@@ -1,7 +1,9 @@
 a{
-    font-size:14px;
-    color:#fff;
-    background:url('./1.png') no-repeat;
-    margin:90px;
-     padding:0;
+    background: url(webpack.png);
+}
+b{
+    background:url(wtf.jpg);
+}
+c{
+    background:url(could.jpg);
 }
