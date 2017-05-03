@@ -9,8 +9,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "async": "^2.4.0",
     "file-loader": "^0.11.1",
     "url-loader": "^0.5.8",
-    "webpack": "^2.4.1"
+    "webpack": "^2.4.1",
+    "webpack-sources": "^0.2.3"
   }
 }
