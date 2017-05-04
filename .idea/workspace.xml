@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7e42709-5915-48b5-816e-a7ec0c2ff989" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1.md" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react" afterPath="$PROJECT_DIR$/react" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -37,11 +40,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1.md">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="255" selection-end-column="0" />
+            <state relative-caret-position="105">
+              <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -94,18 +97,6 @@
               <caret line="18" column="31" lean-forward="false" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="map.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/react/dist/map.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-126">
-              <caret line="5426" column="31" lean-forward="false" selection-start-line="5426" selection-start-column="31" selection-end-line="5426" selection-end-column="31" />
-              <folding>
-                <marker date="1493894900000" expanded="true" signature="272732:272733" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -200,7 +191,6 @@
         <option value="$PROJECT_DIR$/demo6/node_modules/webpack/lib/webpack.js" />
         <option value="$PROJECT_DIR$/demo6/node_modules/webpack/lib/Compiler.js" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/demo6/node_modules/html-webpack-plugin/index.js" />
         <option value="$PROJECT_DIR$/webpack-plugin-demo/.gitignore" />
         <option value="$PROJECT_DIR$/demo6/package.json" />
@@ -218,6 +208,7 @@
         <option value="$PROJECT_DIR$/react/webpack.dll.config.js" />
         <option value="$PROJECT_DIR$/react/webpack.config.js" />
         <option value="$PROJECT_DIR$/1.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -269,20 +260,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="webpack-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webpack-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webpack-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="react" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -411,12 +388,12 @@
       <workItem from="1493028026004" duration="7646000" />
       <workItem from="1493259805714" duration="5366000" />
       <workItem from="1493343924543" duration="1535000" />
-      <workItem from="1493689814290" duration="50519000" />
+      <workItem from="1493689814290" duration="50726000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91188000" />
+    <option name="totallyTimeSpent" value="91395000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1920" y="-280" width="1920" height="1080" extended-state="0" />
@@ -454,14 +431,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demo6/node_modules/webpack/lib/WebpackOptionsApply.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4455">
-          <caret line="235" column="0" lean-forward="true" selection-start-line="235" selection-start-column="0" selection-end-line="235" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo6/node_modules/webpack/lib/MultiCompiler.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2121">
@@ -930,8 +899,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/1.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="255" selection-end-column="0" />
+        <state relative-caret-position="210">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
           <folding />
         </state>
       </provider>
