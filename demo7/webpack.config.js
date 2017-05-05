@@ -2,12 +2,11 @@ const webpack = require('webpack');
 const path = require('path');
 
 module.exports = {
-    entry: {
-        app:'./app',
-    },
-
+    entry: [
+        'webpack-dev-server/client?http://localhost:8080/',
+        './app'
+    ],
     output:{
-        path:path.resolve(__dirname,"build"),
         filename:'bundle.js'
     }
 }
