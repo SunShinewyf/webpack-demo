@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e7e42709-5915-48b5-816e-a7ec0c2ff989" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react" afterPath="$PROJECT_DIR$/react" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -38,11 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="1.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/react/1.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="687">
-              <caret line="276" column="3" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="292" selection-end-column="0" />
+            <state relative-caret-position="120">
+              <caret line="195" column="12" lean-forward="true" selection-start-line="195" selection-start-column="12" selection-end-line="195" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -88,6 +87,16 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/react/readme.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" column="32" lean-forward="false" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo6/webpack.config.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -103,16 +112,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/react/app/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1407">
-              <caret line="67" column="14" lean-forward="false" selection-start-line="67" selection-start-column="13" selection-end-line="67" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -164,7 +163,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/webpack-in-action/examples/advanced/src/views/foo/index.js" />
         <option value="$PROJECT_DIR$/demo4/a.501a.css" />
         <option value="$PROJECT_DIR$/demo4/c.js" />
         <option value="$PROJECT_DIR$/chunkhash-problem/src/entry.js" />
@@ -215,6 +213,7 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/react/webpack.config.js" />
         <option value="$PROJECT_DIR$/react/1.md" />
+        <option value="$PROJECT_DIR$/react/readme.md" />
       </list>
     </option>
   </component>
@@ -280,46 +279,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="react" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webpack-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webpack-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="react" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webpack-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webpack-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="react" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lodash" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -448,12 +407,12 @@
       <workItem from="1493028026004" duration="7646000" />
       <workItem from="1493259805714" duration="5366000" />
       <workItem from="1493343924543" duration="1535000" />
-      <workItem from="1493689814290" duration="54023000" />
+      <workItem from="1493689814290" duration="55265000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94692000" />
+    <option name="totallyTimeSpent" value="95934000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1920" y="-280" width="1920" height="1080" extended-state="0" />
@@ -491,47 +450,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demo6/node_modules/webpack/lib/Compilation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="1024" column="12" lean-forward="false" selection-start-line="1024" selection-start-column="11" selection-end-line="1024" selection-end-column="12" />
-          <folding>
-            <element signature="n#!!block;n#iterationBlockVariable#0" expanded="false" />
-            <element signature="n#!!block;n#iterationOfArrayCallback#0" expanded="false" />
-            <element signature="n#!!block;n#templatesPlugin#0;n#Compilation#0" expanded="false" />
-            <element signature="n#!!block;n#addModule#0;n#Compilation#0" expanded="false" />
-            <element signature="n#!!block;n#getModule#0;n#Compilation#0" expanded="false" />
-            <element signature="n#!!block;n#findModule#0;n#Compilation#0" expanded="false" />
-            <element signature="n#!!block;n#buildModule#0;n#Compilation#0" expanded="false" />
-            <element signature="n#!!block;n#processModuleDependencies#0;n#Compilation#0" expanded="false" />
-            <element signature="n#!!block;n#addModuleDependencies#0;n#Compilation#0" expanded="false" />
-            <element signature="n#!!block;n#_addModuleChain#0;n#Compilation#0" expanded="false" />
-            <element signature="n#!!block;n#addEntry#0;n#Compilation#0" expanded="false" />
-            <element signature="n#!!block;n#prefetch#0;n#Compilation#0" expanded="false" />
-            <element signature="n#!!block;n#rebuildModule#0;n#Compilation#0" expanded="false" />
-            <element signature="n#!!block;n#finish#0;n#Compilation#0" expanded="false" />
-            <element signature="n#!!block;n#unseal#0;n#Compilation#0" expanded="false" />
-            <element signature="n#!!block;n#sortModules#0;n#Compilation#0" expanded="false" />
-            <element signature="n#!!block;n#assignIndex#0;n#Compilation#0" expanded="false" />
-            <element signature="n#!!block;n#assignDepth#0;n#Compilation#0" expanded="false" />
-            <element signature="n#!!block;n#processDependenciesBlockForChunk#0;n#Compilation#0" expanded="false" />
-            <element signature="n#!!block;n#removeChunkFromDependencies#0;n#Compilation#0" expanded="false" />
-            <element signature="n#!!block;n#applyModuleIds#0;n#Compilation#0" expanded="false" />
-            <element signature="n#!!block;n#applyChunkIds#0;n#Compilation#0" expanded="false" />
-            <element signature="n#!!block;n#sortItemsWithModuleIds#0;n#Compilation#0" expanded="false" />
-            <element signature="n#!!block;n#sortItemsWithChunkIds#0;n#Compilation#0" expanded="false" />
-            <element signature="n#!!block;n#summarizeDependencies#0;n#Compilation#0" expanded="false" />
-            <element signature="n#!!block;n#createHash#0;n#Compilation#0" expanded="false" />
-            <element signature="n#!!block;n#modifyHash#0;n#Compilation#0" expanded="false" />
-            <element signature="n#!!block;n#createModuleAssets#0;n#Compilation#0" expanded="false" />
-            <element signature="n#!!block;n#createChunkAssets#0;n#Compilation#0" expanded="false" />
-            <element signature="n#!!block;n#getPath#0;n#Compilation#0" expanded="false" />
-            <element signature="n#!!block;n#createChildCompiler#0;n#Compilation#0" expanded="false" />
-            <element signature="n#!!block;n#checkConstraints#0;n#Compilation#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo6/node_modules/webpack/lib/Compiler.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="358">
@@ -897,14 +815,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/react/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/react/manifest.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -953,6 +863,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/react/1.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="195" column="12" lean-forward="true" selection-start-line="195" selection-start-column="12" selection-end-line="195" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/react/webpack.config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -961,10 +879,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/react/1.md">
+    <entry file="file://$PROJECT_DIR$/react/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="687">
-          <caret line="276" column="3" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="292" selection-end-column="0" />
+        <state relative-caret-position="18">
+          <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="32" lean-forward="false" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
           <folding />
         </state>
       </provider>
