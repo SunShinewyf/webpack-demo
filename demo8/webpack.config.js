@@ -34,7 +34,7 @@ module.exports = {
         // new Image
         new imageWebpackPlugin({
             test:/\.(png|jpg)$/,
-            filename:'filename'
+            filename:'[hash].[ext]'
         })
     ],
 }
