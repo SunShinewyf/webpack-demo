@@ -1,6 +1,7 @@
 const webpack = require('webpack');
 const extractTextPlugin = require('extract-text-webpack-plugin');
 const imageWebpackPlugin = require('image-webpack-plugin');
+const CopyWebpackplugin = require('copy-webpack-plugin')
 // const ImageminPlugin = require('imagemin-webpack-plugin');
 
 
@@ -27,9 +28,12 @@ module.exports = {
     },
     plugins: [
         new extractTextPlugin('[name].[contenthash:4].css'),
+        new CopyWebpackplugin([{
+            from: 'im'
+        }]),
         // new Image
         new imageWebpackPlugin({
-            test:'*.png',
+            test:/\.(png|jpg)$/,
             filename:'filename'
         })
     ],
