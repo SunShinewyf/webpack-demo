@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        function ImageWebpackPlugin(options){
+        this.modulesByIdentifie = {};
+        this.options = options;
+        var initialOptions = {
+            limit:1000,
+            fileName:'',
+            loaders:[]
+        }
+        mergeOptions(this.options,initialOptions);
+    }
+
+    ImageWebpackPlugin.prototype.extract = function(options){
+        if(options && options.loaders){
+            var loader = options.loaders || [];
+            mergeOptions(this.options,{loaders:loader})
+        }else{
+            console.warn('this is a wrong arguments')
+        }
+    }
+
+    ImageWebpackPlugin.extract = ImageWebpackPlugin.prototype.extract.bind(ImageWebpackPlugin);
+
+    function mergeOptions(a, b) {
+        if(!b) return a;
+        Object.keys(b).forEach(function(key) {
+            console.log(b)
+            console.log(b[key],'kkkdd')
+            a[key] = b[key];
+        });
+        return a;
+    }
+    ImageWebpackPlugin.extract({loaders:[1,2]})
+    </script>
+</body>
+</html>
