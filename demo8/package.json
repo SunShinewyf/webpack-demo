@@ -24,8 +24,11 @@
     "gulp": "3.9.1",
     "gulp-npm-script-sync": "1.1.0",
     "gulp-run-command": "0.0.7",
+    "html-webpack-plugin": "^2.28.0",
+    "lodash": "^4.17.4",
     "np": "2.10.1",
     "rimraf": "2.5.4",
-    "standard": "8.5.0"
+    "standard": "8.5.0",
+    "webpack-webstorm-debugger-script": "^1.0.1"
   }
 }
