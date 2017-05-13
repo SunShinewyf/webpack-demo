@@ -1,6 +1,7 @@
 const webpack = require('webpack');
 const extractTextPlugin = require('extract-text-webpack-plugin');
 const imageWebpackPlugin = require('image-webpack-plugin');
+const path = require('path');
 // var HtmlWebpackPlugin = require('html-webpack-plugin');
 // const CopyWebpackplugin = require('copy-webpack-plugin');
 // const ImageminPlugin = require('imagemin-webpack-plugin').default;
@@ -35,7 +36,8 @@ module.exports = {
         // })
         // new HtmlWebpackPlugin(),
         new imageWebpackPlugin({
-           publicPath:'images/'
+           publicPath:'images/',
+           root:__dirname
         })
     ],
 }
