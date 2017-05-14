@@ -26,7 +26,6 @@ ImageWebpackPlugin.prototype.apply = function(compiler){
   var self = this;
   var outputPath = self.options.publicPath,
       root = self.options.root;
-  var fullPath = root+'/'+outputPath;
   
   compiler.plugin("compilation", function(compilation) {
     var files = [],imageFiles=[],uniqImageFile=[];
@@ -34,6 +33,7 @@ ImageWebpackPlugin.prototype.apply = function(compiler){
 
         async.forEach(chunks, function(chunk, callback) {
             async.forEach(chunk.modules.slice(), function(module, callback) {
+                console.log(Object.keys(module))
                 var fileName = module.rawRequest.split('/');
                 //获取最后面的图片信息 eg:'xx/xx/1.jpg'  返回1.jpg
                 var name = fileName[fileName.length-1]; 
@@ -71,19 +71,17 @@ ImageWebpackPlugin.prototype.apply = function(compiler){
                 }else{
                     //被url-loader处理过 则source._value则是base64的字符码
                     var name = file.name;
-                    // var fileContent =  source;
-                    // console.log(fileContent)
                    
                     var  content = source._value.split('"')[1];
-                    // var contentBuffer = new Buffer(source._value.split('"')[1],'base64')
-                    // console.log(contentBuffer.toString())
+                    
                     var finalSource = {
                         _value:content,
                         _name:source._name
                     };
-                    // console.log(Object.keys(finalSource))
-                    // Compile.js会报错	var content = source.source();
-                    compilation.assets['jjjj'] = {
+                    var fullPath = outputPath+name;
+
+                   // 第一种方法，直接采用webpack本身的文件输出功能
+                    compilation.assets[fullPath] = {
                         source:function(){
                             return content;
                         },
@@ -91,17 +89,24 @@ ImageWebpackPlugin.prototype.apply = function(compiler){
                             return content.length
                         }
                     }
+                    //第二种方法，采用node的fs来生成文件
+                    //  fs.readFile(file.dir, { encoding: 'binary'},function(err,data){
+                    //     if(err) throw err;
+                        // console.log(data)
+                        // var source = data.toString();
+                        // compilation.assets[outputPath+name] = {
+                        //     source:function(){
+                        //         return data
+                        //     },
+                        //     size:function(){
+                        //         return data.length
+                        //     }
+                        // }
+                        // fs.writeFile(fullPath, data, "binary", function(err) {
+                        //     console.log(err); 
+                        // });
+                    // })  
                 }  
-            //     fs.readFile(file.dir, { encoding: 'binary'},function(err,data){
-            //         if(err) throw err;
-            //         // console.log(data)
-            //         // var source = data.toString();
-            //         fs.writeFile(fullPath+file.name,{encoding:'binary'},function(err,data){
-            //             // if(err) throw err;
-            //         // })
-            //     //    fs.writeFile(__dirname + '/test.txt', w_data, {flag: 'a'}, function (err)
-            //     })
-            // })              
             },this)
             callback()
         }else{
